@@ -257,3 +257,8 @@
 
 </div>
 </template>
+
+<style>
+@import '/config/admin/styles.css';
+
+</style>
